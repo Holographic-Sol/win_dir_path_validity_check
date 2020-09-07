@@ -1,9 +1,4 @@
 import os
-import sys
-import time
-import shutil
-import datetime
-import distutils.dir_util
 
 while True:
 	valid_len_bool = False
